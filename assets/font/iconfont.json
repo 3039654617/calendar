@@ -1,0 +1,44 @@
+{
+  "id": "2391299",
+  "name": "日历组件",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2634709",
+      "name": "左右箭头",
+      "font_class": "goleft",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3747960",
+      "name": "左右箭头",
+      "font_class": "left-arrow",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "14339606",
+      "name": "双箭头-右",
+      "font_class": "left-double-arrow",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "16877956",
+      "name": "双箭头-右",
+      "font_class": "left-double-arrow1",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "17069370",
+      "name": "日 历",
+      "font_class": "rili",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}

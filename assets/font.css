@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 2391299 */
+    src: url('./font/iconfont.eot');
+    src: url('./font/iconfont.eot?#iefix') format('embedded-opentype'),
+    url('./font/iconfont.woff2') format('woff2'),
+    url('./font/iconfont.woff') format('woff'),
+    url('./font/iconfont.ttf') format('truetype'),
+    url('./font/iconfont.svg#iconfont') format('svg');
+  }
+  
+  .iconfont{
+      font-family: 'iconfont';
+  }
+  .icon-calendar::after{
+      content: '\e612';
+  }
+  .icon-left-two-arrow::after{
+      content: '\e69d';
+  }
+  .icon-right-two-arrow::after{
+      content: '\e632';
+  }
+  .icon-left-arrow::after{
+      content: '\e601';
+  }
+  .icon-right-arrow::after{
+      content: '\e600';
+  }
